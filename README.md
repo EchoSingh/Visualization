@@ -1,6 +1,9 @@
-# Visualization and Calculation of Mathematical Concepts
+# Visualization and Calculation of Mathematical Concepts 𝝿
 
 This repository contains a Jupyter Notebook that visualizes and calculates different mathematical concepts, including the estimation of π (Pi) using the Monte Carlo method, creating a dynamic heart shape animation using parametric equations, and plotting the Fibonacci sequence.
+
+
+## Snapshots
 
 ## Prerequisites
 
