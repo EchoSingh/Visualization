@@ -34,7 +34,7 @@ Open the Jupyter Notebook:
 ```
 ```sh
 
-jupyter notebook math_visualizations.ipynb
+jupyter notebook Shapes.ipynb
 Run the cells in the notebook to see the visualizations and calculations.
 ```
 # Examples
