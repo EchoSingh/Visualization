@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook that visualizes and calculates diffe
 
 ## Snapshots
 ![𝝅](https://github.com/aditya26062003/Visualization/blob/main/1.png)
-![❤︎](https://github.com/aditya26062003/Visualization/blob/main/2.png)
+![❤︎](https://github.com/aditya26062003/Visualization/blob/main/heart.gif)
 ## Prerequisites
 
 Make sure you have the following packages installed:
